@@ -7,13 +7,13 @@
     <pubDate>2014-05-15</pubDate>
     <item>
       <title>Archive</title>
-      <link>/archive</link>
+      <link>/shrekblog/archive</link>
       <description>
 </description>
     </item>
     <item>
       <title>Categories</title>
-      <link>/categories</link>
+      <link>/shrekblog/categories</link>
       <description>
 &lt;ul class="tag_box inline"&gt;
 &lt;/ul&gt;
@@ -22,7 +22,7 @@
     </item>
     <item>
       <title>Home</title>
-      <link>/</link>
+      <link>/shrekblog</link>
       <description>## Hello World
 
 
@@ -34,30 +34,30 @@
     </item>
     <item>
       <title>Pages</title>
-      <link>/pages</link>
+      <link>/shrekblog/pages</link>
       <description>
 &lt;ul&gt;
   
-    &lt;li&gt;&lt;a href="/archive"&gt;Archive&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/shrekblog/archive"&gt;Archive&lt;/a&gt;&lt;/li&gt;
   
   
-    &lt;li&gt;&lt;a href="/categories"&gt;Categories&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/shrekblog/categories"&gt;Categories&lt;/a&gt;&lt;/li&gt;
   
   
-    &lt;li&gt;&lt;a href="/"&gt;Home&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/shrekblog"&gt;Home&lt;/a&gt;&lt;/li&gt;
   
-    &lt;li class="active"&gt;&lt;a href="/pages" class="active"&gt;Pages&lt;/a&gt;&lt;/li&gt;
+    &lt;li class="active"&gt;&lt;a href="/shrekblog/pages" class="active"&gt;Pages&lt;/a&gt;&lt;/li&gt;
   
   
   
-    &lt;li&gt;&lt;a href="/tags"&gt;Tags&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="/shrekblog/tags"&gt;Tags&lt;/a&gt;&lt;/li&gt;
   
 &lt;/ul&gt;
 </description>
     </item>
     <item>
       <title>Tags</title>
-      <link>/tags</link>
+      <link>/shrekblog/tags</link>
       <description>
 &lt;ul class="tag_box inline"&gt;
 &lt;/ul&gt;
